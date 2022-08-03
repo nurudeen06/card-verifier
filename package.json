@@ -1,0 +1,27 @@
+{
+  "name": "card-verifier",
+  "version": "1.0.0",
+  "description": "This is a Credit Card Verification API and it's meant to ease users to check which Credit Card is real before Processing the Card",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "npm test",
+    "build": "webpack --mode production"
+  },
+  "keywords": [
+    "Credit",
+    "Card",
+    "VISA",
+    "MasterCard",
+    "Verification",
+    "e.t.c"
+  ],
+  "author": "Nurudeen Ahmed",
+  "author-contact": "+2348122647016",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.18.10",
+    "babel-loader": "^8.2.5",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
